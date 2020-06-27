@@ -1316,6 +1316,7 @@
     <string-array name="volume_panel_entries">
         <item>@string/volume_panel_aosp</item>
         <item>@string/volume_panel_compact</item>
+        <item>@string/volume_panel_compat</item>
         <item>@string/volume_panel_oreo</item>
         <item>@string/volume_panel_tiled</item>
     </string-array>
@@ -1342,5 +1343,9 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+    </string-array>
+        <item>@string/volume_panel_compat_val</item>
+        <item>@string/volume_panel_oreo_val</item>
+        <item>@string/volume_panel_tiled_val</item>
     </string-array>
 </resources>
