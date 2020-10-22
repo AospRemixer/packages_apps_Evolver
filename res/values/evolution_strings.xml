@@ -17,7 +17,7 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Customization</string>
+    <string name="evolution_settings_title">The Evolver</string>
 
     <!-- Categories -->
     <string name="aosp_gesture_title">AOSP Gestures</string>
@@ -556,6 +556,7 @@
     <string name="lock_clock_font_gobold">GoBold Light</string>
     <string name="lock_clock_font_roadrage">Road Rage</string>
     <string name="lock_clock_font_snowstorm">Snowstorm</string>
+    <string name="lock_clock_font_manrope">Manrope</string>
     <string name="lock_clock_font_neoneon">Neoneon</string>
     <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Shamshung</string>
@@ -741,7 +742,7 @@
     <string name="qs_footer_text_title">QS footer text</string>
     <string name="qs_footer_text_summary">Display text at bottom of QS panel</string>
     <string name="qs_footer_text_string_title">Customize footer text</string>
-    <string name="qs_footer_text_string_summary">Set to empty for default #JoinTheRemix</string>
+    <string name="qs_footer_text_string_summary">Set to empty for default #KeepEvolving</string>
 
     <!-- Battery Styles -->
     <string name="battery_style_category_title">Battery level</string>
@@ -1027,6 +1028,9 @@
     <string name="fod_recog_animation_pureview_future">Future</string>
     <string name="fod_recog_animation_pureview_halo_ring">Halo ring</string>
     <string name="fod_recog_animation_pureview_molecular">Molecular</string>
+    <string name="fod_recog_animation_rog_fusion">Fusion</string>
+    <string name="fod_recog_animation_rog_pulsar">Pulsar</string>
+    <string name="fod_recog_animation_rog_supernova">Supernova</string>
     <string name="fod_recog_animation_bluefirework">Blue Fireworks</string>
     <string name="fod_recog_animation_coloros7_1">ColorOS7 1</string>
     <string name="fod_recog_animation_coloros7_2">ColorOS7 2</string>
@@ -1337,7 +1341,6 @@
     <string name="volume_panel">Volume Panel Style</string>
     <string name="volume_panel_aosp">AOSP</string>
     <string name="volume_panel_compact">Compact</string>
-    <string name="volume_panel_compat">Compat</string>
     <string name="volume_panel_oreo">Oreo</string>
     <string name="volume_panel_tiled">Tiled</string>
 
@@ -1354,8 +1357,4 @@
     <string name="qs_header_lightgray">Light Gray</string>
     <string name="qs_header_accent">Accent Based</string>
     <string name="qs_header_transparent">Transparent</string>
-    <string name="volume_panel_aosp_val">co.potatoproject.plugin.volume.aosp</string>
-    <string name="volume_panel_compat_val">co.potatoproject.plugin.volume.compact</string>
-    <string name="volume_panel_oreo_val">co.potatoproject.plugin.volume.oreo</string>
-    <string name="volume_panel_tiled_val">co.potatoproject.plugin.volume.tiled</string>
 </resources>

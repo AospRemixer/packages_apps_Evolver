@@ -245,6 +245,7 @@
         <item>@string/lock_clock_font_gobold</item>
         <item>@string/lock_clock_font_roadrage</item>
         <item>@string/lock_clock_font_snowstorm</item>
+        <item>@string/lock_clock_font_manrope</item>
         <item>@string/lock_clock_font_neoneon</item>
         <item>@string/lock_clock_font_themeable</item>
         <item>@string/lock_clock_font_samsung</item>
@@ -320,6 +321,7 @@
         <item>47</item>
         <item>48</item>
         <item>49</item>
+        <item>50</item>
     </string-array>
 
     <!-- Tiles animation style -->
@@ -907,6 +909,9 @@
         <item>@string/fod_recog_animation_pureview_future</item>
         <item>@string/fod_recog_animation_pureview_halo_ring</item>
         <item>@string/fod_recog_animation_pureview_molecular</item>
+        <item>@string/fod_recog_animation_rog_fusion</item>
+        <item>@string/fod_recog_animation_rog_pulsar</item>
+        <item>@string/fod_recog_animation_rog_supernova</item>
         <item>@string/fod_recog_animation_bluefirework</item>
         <item>@string/fod_recog_animation_coloros7_1</item>
         <item>@string/fod_recog_animation_coloros7_2</item>
@@ -936,6 +941,9 @@
         <item>20</item>
         <item>21</item>
         <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
     </string-array>
 
     <!-- Lockscreen clock style -->
@@ -1316,7 +1324,6 @@
     <string-array name="volume_panel_entries">
         <item>@string/volume_panel_aosp</item>
         <item>@string/volume_panel_compact</item>
-        <item>@string/volume_panel_compat</item>
         <item>@string/volume_panel_oreo</item>
         <item>@string/volume_panel_tiled</item>
     </string-array>
@@ -1343,9 +1350,5 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
-    </string-array>
-        <item>@string/volume_panel_compat_val</item>
-        <item>@string/volume_panel_oreo_val</item>
-        <item>@string/volume_panel_tiled_val</item>
     </string-array>
 </resources>
